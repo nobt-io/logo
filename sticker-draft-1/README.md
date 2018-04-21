@@ -1,10 +1,8 @@
 # Sticker draft 1
 
-## Design
-
-![Sticker](./sticker.svg)
-
-## Information
+|Design|
+|---|
+|![Sticker](./sticker.svg)|
 
 This sticker draft uses the 'Comfortaa' font.
 
