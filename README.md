@@ -8,4 +8,4 @@ This repo hosts the logos of nobt.io and various assets created from it.
 
 [./logo-2](./logo-2): Contains the second logo in .svg format.
 
-[./sticker-draft-1](./sticker-draft-1): The first draft of a sticker designer
+[./sticker-draft-1](./sticker-draft-1): The first draft of a sticker design
